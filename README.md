@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi 👋
+
+✨개인 공부하려고 만든 github✨
+
+- JAVA
+- JPA
 
 <!--
 **hyedimi/hyedimi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
